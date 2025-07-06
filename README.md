@@ -8,7 +8,7 @@ Java/Python
   <a href="moisesferreira33_52747" target="_blank">
    </a> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/moises-ferreira-aa7b8a318/" target="_blank">
+  <a href="[https://www.linkedin.com/in/moises-ferreira-aa7b8a318/](https://www.linkedin.com/in/moises-ferreira-aa7b8a318/)" target="_blank">
    </a> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="moises.i.ferreira@hotmail.com" target="_blank">
