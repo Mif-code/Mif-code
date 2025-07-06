@@ -43,19 +43,8 @@ Java/Python
 ###
 
 <div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mif-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" 
-    height="150" 
-    alt="stats graph" 
-    style="display: inline-block; margin-right: 10px;" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mif-code&locale=pt-br&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="languages graph" 
-    style="display: inline-block;" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mif-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mif-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 
