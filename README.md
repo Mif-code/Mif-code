@@ -2,7 +2,7 @@ Java/Python
 
 <h2 align="center">👩🏻‍💻 Moises Ivanildo Ferreira</h2>
 
-<h2 align="center">Olá Mundo, Bem vindo ao meu GitHub!</h2>
+<h2 align="center"> print("Olá Mundo, Bem vindo ao meu GitHub!")</h2>
 
 <div align="left">
   <a href="https://discord.com/users/moisesferreira33_52747" target="_blank" style="text-decoration: none;">
