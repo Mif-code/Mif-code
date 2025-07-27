@@ -4,6 +4,10 @@ Java/Python
 
 <h2 align="center"> print("Olá Mundo, Bem vindo ao meu GitHub!")</h2>
 
+📚 Estudante de Analise e Desenvolvimento de Sistemas, Centro Universitário Facens.
+
+📫 Como entrar em contato comigo:
+
 <div align="left">
   <a href="https://discord.com/users/moisesferreira33_52747" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
