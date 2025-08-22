@@ -44,7 +44,6 @@ Java/Python
   <img align="center" title="PostgreSQL" alt="Mif-code-PostgreSQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" title="Node.js" alt="Mif-code-NodeJS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="MySQL" alt="Mif-code-MySQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" title="Kotlin" alt="Mif-code-Kotlin" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" title="Java" alt="Mif-code-Java" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" title="Git" alt="Mif-code-Git" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="Figma" alt="Mif-code-Figma" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
