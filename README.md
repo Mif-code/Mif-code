@@ -2,7 +2,7 @@ Java/Python
 
 <h2 align="center">👩🏻‍💻 Moises Ivanildo Ferreira</h2>
 
-<h2 align="center"> print("Olá, Bem vindo ao meu GitHub!")</h2>
+<h2 align="center"> Olá, Bem vindo ao meu GitHub!</h2>
 
 📚 Estudante de Analise e Desenvolvimento de Sistemas, Centro Universitário Facens.
 
