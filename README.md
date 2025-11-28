@@ -2,7 +2,7 @@ Java/Python
 
 <h2 align="center">👩🏻‍💻 Moises Ivanildo Ferreira</h2>
 
-<h2 align="center"> Olá, Bem vindo ao meu GitHub!</h2>
+<h2 align="left"> Olá, Bem vindo ao meu GitHub!</h2>
 
 📚 Estudante de Analise e Desenvolvimento de Sistemas, Centro Universitário Facens.
 
@@ -34,20 +34,14 @@ Java/Python
 ###
  
 <div align="left">
-  <img align="center" title="JavaScript" alt="Mif-code-Js" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="TypeScript" alt="Mif-code-Ts" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" title="React" alt="Mif-code-React" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="HTML5" alt="Mif-code-HTML" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" title="CSS3" alt="Mif-code-CSS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" title="Python" alt="Mif-code-Python" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="VSCode" alt="Mif-code-VSCode" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" title="PostgreSQL" alt="Mif-code-PostgreSQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" title="Node.js" alt="Mif-code-NodeJS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="MySQL" alt="Mif-code-MySQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" title="Python" alt="Mif-code-Python" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Java" alt="Mif-code-Java" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" title="Node.js" alt="Mif-code-NodeJS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="PostgreSQL" alt="Mif-code-PostgreSQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" title="MySQL" alt="Mif-code-MySQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="Git" alt="Mif-code-Git" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="Figma" alt="Mif-code-Figma" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" title="Amazon Web Services (AWS)" alt="Mif-code-AWS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 
