@@ -31,14 +31,11 @@ Java/Python
 ###
  
 <div align="left">
-  <img align="center" title="VSCode" alt="Mif-code-VSCode" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" title="Python" alt="Mif-code-Python" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="Java" alt="Mif-code-Java" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" title="Node.js" alt="Mif-code-NodeJS" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="PostgreSQL" alt="Mif-code-PostgreSQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" title="MySQL" alt="Mif-code-MySQL" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" title="Git" alt="Mif-code-Git" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" title="Figma" alt="Mif-code-Figma" height="40" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ 
+<img align="center" title="VS Code" alt="VS Code" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Python" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Node.js" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="PostgreSQL" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="MySQL" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Git" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Figma" alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="Postman" alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" title="API / REST" alt="API / REST" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg">
+
+
+  
 </div>
 
 
