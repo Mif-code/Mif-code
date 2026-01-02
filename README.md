@@ -1,4 +1,4 @@
-Java/Python
+Java/Spring Boot/APi Rest
 
 <h2 align="center">👩🏻‍💻 Moises Ivanildo Ferreira</h2>
 
